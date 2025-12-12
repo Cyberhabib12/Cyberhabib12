@@ -6,7 +6,7 @@
 
 **A passionate Software Engineer from BANGLADESH** <br>
 
-<img src="https://raw.githubusercontent.com/Cyberhabib12/Cyberhabib12/main/y2mate%20com%20anonymous%20hacker%20gif%201080p.gif" alt="Hacker GIF" width="400"/>
+<img src="https://media.giphy.com/media/qgM9N0F90zQZ2/giphy.gif" alt="Live Coding GIF" width="400"/>
 <br>
 
 </div>
